@@ -1,4 +1,11 @@
-## Opa,eu sou o Gui, estudante de programação e tecnologia!
+## Opa, eu sou o Gui, estudante de programação e tecnologia!
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e Desenvolvimentode Sistemas na Universidade Presbiteriana Mackenzie.
+- 🌱 Aprendendo mais sobre HTML 5, CSS 3, Responsividade, Git e GitHub.
+
 
 <a href="https://github.com/guilhermemacario01" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermemacario01&theme=dracula&show_icons=true" />
