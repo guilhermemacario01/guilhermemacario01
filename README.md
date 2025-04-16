@@ -23,6 +23,6 @@
   
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/guilhermemacario)](http://www.linkedin.com/in/guilhermemacario)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.n.macario@gmail.com)](mailto:guilherme.n.macario@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/guilhermemacario01)
+[![Linkedin](https://img.shields.io/badge/-guilhermemacario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/guilhermemacario)](http://www.linkedin.com/in/guilhermemacario)
+[![Gmail Badge](https://img.shields.io/badge/-guilherme.n.macario@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.n.macario@gmail.com)](mailto:guilherme.n.macario@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/guilhermemacario01?label=follow&style=social)](https://github.com/guilhermemacario01)
