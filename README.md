@@ -1,8 +1,6 @@
 ## Opa,eu sou o Gui, estudante de programação e tecnologia!
 
-<a href="https://github.com/guilhermemacario01" title="Gui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+
 
 
 <div style="display: inline_block"><br>
